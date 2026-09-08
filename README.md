@@ -33,6 +33,6 @@ Whether you are looking for custom SaaS development, digital transformation cons
 
 * 🌍 **Website:** [vesta-software.com](https://vesta-software.com)
 * 📍 **Location:** Çorlu, Tekirdağ, Turkey
-* ✉️ **Contact:** hello@vesta-software.com *(Update with your actual email)*
+* ✉️ **Contact:** info@vesta-software.com
 
 > *Building modern, secure, and scalable digital solutions—without compromise.*
